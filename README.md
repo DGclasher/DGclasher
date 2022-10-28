@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://tryhackme.com/badge/302936)
+<script type="text/javascript" src="https://tryhackme.com/badge/302936"> </script>
 
 <!--
 **DGclasher/DGclasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
