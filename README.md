@@ -1,9 +1,13 @@
-### Hello !
+# Hello !
 
-A Cyber Security enthusiast hungry for root shells
+a cyber security enthusiast hungry for root shells
 
-##Contact
+<hr>
 
-:email (mailto:dgclasher@proton.me)
+## Contact
+
+: [dgclasher@proton.me](mailto:dgclasher@proton.me)
+<hr>
+
 
 
