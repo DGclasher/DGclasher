@@ -1,9 +1,7 @@
-# Hello !
-
-I am an undergraduate student in Computer Science and Engineering with a strong interest in cybersecurity and DevOps. My passion lies in understanding and enhancing the security of digital systems, while also streamlining development and operations for efficient software delivery.
+![profile](./assets/profile.gif)
 
 ## Contact
 
-: [dgclasher@proton.me](mailto:dgclasher@proton.me)
-
+[dgclasher@proton.me](mailto:dgclasher@proton.me)<br>
+[dgclasher.github.io](https://dgclasher.github.io)
  
